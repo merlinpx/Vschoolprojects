@@ -1,0 +1,23 @@
+.task-item{
+    display:flex;
+    font-size:34px;
+  
+}
+.saveBtn{
+    content:"&#10003";
+
+}
+.delBtn{
+    content:"&#128465";
+}
+.editBtn{
+    content:"&#9997";
+
+}
+
+.top{
+    display:flex;
+}
+.newInput{
+    font-size:34px; 
+}
